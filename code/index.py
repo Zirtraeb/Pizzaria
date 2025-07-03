@@ -1,4 +1,4 @@
-print('Bem-vindos a Pizzaria de Beatriz Negreiros')
+print('Bem-vindos a Pizzaria de Beatriz Avelar')
 
 print('Pizzas Salgadas (PS) / Pizzas Doces (PD) \nP - R$30,00  /  R$34,00 \nM - R$45,00  /  R$48,00\nG - R$60,00  /  R$66,00')
 
